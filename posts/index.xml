@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on doydoydoy.github.io</title>
-    <link>http://doydoydoy.github.io/posts/</link>
+    <link>https://doydoydoy.github.io/posts/</link>
     <description>Recent content in Posts on doydoydoy.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Apr 2020 05:02:41 +0800</lastBuildDate>
     
-	<atom:link href="http://doydoydoy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doydoydoy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Second Blog</title>
-      <link>http://doydoydoy.github.io/posts/second-blog/</link>
+      <link>https://doydoydoy.github.io/posts/second-blog/</link>
       <pubDate>Sun, 12 Apr 2020 05:02:41 +0800</pubDate>
       
-      <guid>http://doydoydoy.github.io/posts/second-blog/</guid>
+      <guid>https://doydoydoy.github.io/posts/second-blog/</guid>
       <description>#wew</description>
     </item>
     
     <item>
       <title>First Blog Post</title>
-      <link>http://doydoydoy.github.io/posts/first-blog-post/</link>
+      <link>https://doydoydoy.github.io/posts/first-blog-post/</link>
       <pubDate>Sun, 12 Apr 2020 04:55:25 +0800</pubDate>
       
-      <guid>http://doydoydoy.github.io/posts/first-blog-post/</guid>
+      <guid>https://doydoydoy.github.io/posts/first-blog-post/</guid>
       <description>Here&amp;rsquo;s to my first blog post! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
